@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Topher Hardy"
-  avatar : "/bio-photo.jpg"
+  avatar : "bio-photo.jpg"
   bio    : "The Spookenator"
   links:
     - label: "Website"
