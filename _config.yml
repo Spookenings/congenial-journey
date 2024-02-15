@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Topher Hardy"
-  avatar : "bio-photo.jpg"
+  avatar : "/assets/img/magia_baiser.jpg"
   bio    : "The Spookenator"
   links:
     - label: "Website"
